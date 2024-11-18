@@ -8,10 +8,10 @@ git config --global user.email "Boukelmoun1@gmail.com"
 2./
 
 -Le Makefile : sert à automatiser la compilation des fichiers en C.
--Le Main : fichier main de c sert a appele et utiliser les fonctions declarer sur ppm.c 
--Mandel.c : sert a générer une fractale de Mandelbrot
+-Le Main : fichier main de c sert à appeler et utiliser les fonctions declarées sur ppm.c 
+-Mandel.c : sert à générer une fractale de Mandelbrot
 -ppm.c : trace et affiche la fractale
--pph.h : est une bibliotheque qui sert a lier les fichier main.c, mandel.c et ppm.c
+-pph.h : est une bibliotheque qui sert à lier les fichiers main.c, mandel.c et ppm.c
 
 
 
